@@ -1,4 +1,5 @@
 ModelNet10/
+ModelNet40/
 __pycache__/
 wandb/
 pointnet2_modelnet/

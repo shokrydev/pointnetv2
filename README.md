@@ -3,7 +3,7 @@
 
 - Visualize training progress
 
-- Create sampled point cloud datset
+- Create sampled point cloud dataset
 
 - Write quick inference demo script using checkpoint
 
