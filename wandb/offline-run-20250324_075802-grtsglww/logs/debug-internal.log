@@ -1,0 +1,14 @@
+{"time":"2025-03-24T07:58:02.390781189+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"wandb/offline-run-20250324_075802-grtsglww/logs/debug-core.log"}
+{"time":"2025-03-24T07:58:02.493350215+01:00","level":"INFO","msg":"created new stream","id":"grtsglww"}
+{"time":"2025-03-24T07:58:02.493371426+01:00","level":"INFO","msg":"stream: started","id":"grtsglww"}
+{"time":"2025-03-24T07:58:02.493406813+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"grtsglww"}
+{"time":"2025-03-24T07:58:02.493418135+01:00","level":"INFO","msg":"sender: started","stream_id":"grtsglww"}
+{"time":"2025-03-24T07:58:02.493441379+01:00","level":"INFO","msg":"handler: started","stream_id":"grtsglww"}
+{"time":"2025-03-24T07:58:02.495137963+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-24T07:58:03.49673669+01:00","level":"INFO","msg":"stream: closing","id":"grtsglww"}
+{"time":"2025-03-24T07:58:03.496764513+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-24T07:58:03.497187268+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-24T07:58:03.49724062+01:00","level":"INFO","msg":"handler: closed","stream_id":"grtsglww"}
+{"time":"2025-03-24T07:58:03.497246762+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"grtsglww"}
+{"time":"2025-03-24T07:58:03.49725643+01:00","level":"INFO","msg":"sender: closed","stream_id":"grtsglww"}
+{"time":"2025-03-24T07:58:03.497293671+01:00","level":"INFO","msg":"stream: closed","id":"grtsglww"}

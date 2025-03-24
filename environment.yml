@@ -1,0 +1,23 @@
+name: pyg_env
+
+channels:
+  - conda-forge
+  - pyg
+  - pytorch
+  - defaults
+
+dependencies:
+  - pytorch-cuda
+  - lightning
+  - pytorch
+  - pyg
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - pip
+  - pip:
+      - timm
+      - wandb
+      - torchmetrics
+      - tqdm
+      - glob2
